@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mcptask-online": {
+      "type": "http",
+      "url": "https://mcptask.online/mcp"
+    }
+  }
+}
