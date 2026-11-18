@@ -1,0 +1,17 @@
+{
+  "name": "mcptask-online",
+  "owner": {
+    "name": "WorkVector s.r.o.",
+    "email": "support@mcptask.online",
+    "url": "https://mcptask.online"
+  },
+  "description": "mcptask.online plugins for Claude: autonomous AI developers on your own infrastructure.",
+  "plugins": [
+    {
+      "name": "mcptask",
+      "source": "./",
+      "category": "productivity",
+      "tags": ["project-management", "time-tracking", "mcp"]
+    }
+  ]
+}

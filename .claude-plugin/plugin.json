@@ -1,0 +1,19 @@
+{
+  "name": "mcptask",
+  "displayName": "mcptask.online",
+  "version": "1.0.0",
+  "description": "Autonomous AI developers on your own infrastructure. Connects Claude to the mcptask.online MCP server and teaches it to pick up, plan and report work: next task, well-formed pieces, progress and time logging.",
+  "author": {
+    "name": "WorkVector s.r.o.",
+    "email": "support@mcptask.online",
+    "url": "https://mcptask.online"
+  },
+  "homepage": "https://mcptask.online",
+  "repository": "https://github.com/jchsoft/mcptask-claude-plugin",
+  "license": "MIT",
+  "keywords": ["mcptask", "project-management", "time-tracking", "ai-developers", "mcp"],
+  "documentationUrl": "https://mcptask.online/installation",
+  "supportUrl": "https://mcptask.online/contact",
+  "privacyPolicyUrl": "https://mcptask.online/privacy",
+  "termsOfServiceUrl": "https://mcptask.online/terms"
+}
