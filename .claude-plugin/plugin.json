@@ -11,7 +11,14 @@
   "homepage": "https://mcptask.online",
   "repository": "https://github.com/jchsoft/mcptask-claude-plugin",
   "license": "MIT",
-  "keywords": ["mcptask", "project-management", "time-tracking", "ai-developers", "mcp"],
+  "keywords": [
+    "mcptask",
+    "project-management",
+    "time-tracking",
+    "ai-developers",
+    "mcp"
+  ],
+  "icon": "./.claude-plugin/icon.png",
   "documentationUrl": "https://mcptask.online/installation",
   "supportUrl": "https://mcptask.online/contact",
   "privacyPolicyUrl": "https://mcptask.online/privacy",
